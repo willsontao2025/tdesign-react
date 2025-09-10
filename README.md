@@ -26,7 +26,7 @@ English | [简体中文](./README-zh_CN.md)
 
 TDesign React is a UI component library for React 16.x and desktop application.
 
-# 🎉 Features
+# 🎉 Features🎉 Features🎉 Features🎉 Features🎉 Features🎉 Features🎉 Features🎉 Features🎉 Features🎉 Features🎉 Features🎉 Features🎉 Features🎉 Features🎉 Features🎉 Features🎉 Features🎉 Features🎉 Features
 
 - Desktop application interaction
 - High quality UI components for React
